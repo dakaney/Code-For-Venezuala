@@ -1,2 +1,2 @@
-# Code-For-Venezuala
+# Code-For-Venezuela
 Open Data and Venezuelan Health Indicators
